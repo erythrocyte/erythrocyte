@@ -2,7 +2,7 @@
 
 I am a researcher specializing in **reservoir simulation** and **numerical methods**.
 
-## 🧑‍🔬 About Me
+## :bust_in_silhouette: About Me
 
 - **Profession:** Researcher  
 - **Research Interests:** Reservoir simulation, numerical methods, multistage hydraulic fracturing  
