@@ -16,6 +16,7 @@ I am a researcher specializing in **reservoir simulation** and **numerical metho
 
 - Multistage hydraulic fractured horizontal well production estimation: [FlowPM.SimpleProdMSHF](https://github.com/erythrocyte/FlowPM.SimpleProdMSHF)
 - Bakley-Leverette Equation Solver: [bleqt](https://github.com/erythrocyte/bleqt)
+- Laplace Equation Solver (2D): [qtlappy](https://github.com/erythrocyte/qtlappy)
 
 ## 💼 Skills
 
